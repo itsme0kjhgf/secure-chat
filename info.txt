@@ -1,2 +1,1 @@
-link""
-app_version"1.0.0"
+link"https://github.com/itsme0kjhgf/secure-chat/raw/refs/heads/main/app-armeabi-v7a-release.apk" app_version"1.0.0" info"hello"
